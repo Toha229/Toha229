@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am a Ukrainian developer <br />
-![Ukraine]([http://url/to/img.png](https://cdn.discordapp.com/attachments/648076263654948884/1017016400977604668/unknown.png))
+
+![Ukraine](https://media.discordapp.net/attachments/648076263654948884/1017028767769710643/Ukraine.png)
 
 - 👨‍🎓 I study at IT-STEP
 - 🔭 I’m currently working on Dungeon Bot
