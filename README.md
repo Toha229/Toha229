@@ -13,7 +13,7 @@ I am a Ukrainian developer <br />
     <details>
     - C# (preferred) <br/>
     - C++ <br/>
-    - MySQL <br/>
+    - SQL <br/>
     - LINQ <br/>
     - WPF (preferred) <br/>
     - WF <br/>
