@@ -5,7 +5,7 @@ I am a Ukrainian developer <br />
 
 - 👨‍🎓 I study at IT-STEP
 - 🔭 I’m currently working on Dungeon Bot
-- 🌱 I’m currently learning ADO.NET
+- 🌱 I’m currently learning Network Programing
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Dll Injection
 - 💬 Ask me about job
