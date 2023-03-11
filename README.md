@@ -5,7 +5,7 @@ I am a Ukrainian developer <br />
 
 - 👨‍🎓 I study at IT-STEP
 - 🔭 I’m currently working on Mafia Casino
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning ASP.NET
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Dll Injection
 - 💬 Ask me about job
