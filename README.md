@@ -4,8 +4,8 @@ I am a Ukrainian developer <br />
 ![Ukraine](https://media.discordapp.net/attachments/648076263654948884/1017028767769710643/Ukraine.png)
 
 - 👨‍🎓 I study at IT-STEP
-- 🔭 I’m currently working on Dungeon Bot
-- 🌱 I’m currently learning JS
+- 🔭 I’m currently working on Mafia Casino
+- 🌱 I’m currently learning C#
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Dll Injection
 - 💬 Ask me about job
